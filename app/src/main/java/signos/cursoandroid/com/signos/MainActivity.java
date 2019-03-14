@@ -1,4 +1,4 @@
-package signos.cursoandroid.com.signos;
+﻿package signos.cursoandroid.com.signos;
 
 import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +9,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+
+//signos
 public class MainActivity extends Activity {
     private ListView listaSignos;
 
